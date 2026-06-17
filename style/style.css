@@ -2,7 +2,6 @@ body{
     background-color: white;
     align-items: center;
     justify-content: center;
-
 }
 
 .head{
@@ -16,6 +15,7 @@ li {
     font-size: 30px;
     color: white;
 }
+
 .albert{
     display: flex;
     flex-direction: column;
@@ -30,4 +30,22 @@ li {
     color: green;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
+}
+
+.basel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: blue;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.ccMohamud{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(234, 234, 26);
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
